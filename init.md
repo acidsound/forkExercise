@@ -12,3 +12,5 @@
   1. singajong - http://github.com/singajong
 1. 마일스톤
 1. 라이센스 정책
+
+  MIT License
